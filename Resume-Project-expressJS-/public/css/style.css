@@ -1,0 +1,39 @@
+/* Font */
+.st-font{
+    /* font-family: 'Fira Sans', sans-serif; */
+font-family: 'Satisfy', cursive;
+}
+nav li:hover{
+    background-color: antiquewhite;
+}
+nav li a{
+    color: whitesmoke !important;
+    
+}
+nav li a:hover{
+    color: black !important;
+    background-color: #e9cd79;
+}
+nav li a.nav-link.active{
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
+#img-logo{
+    width: 10em;
+}
+.m-p-d-n{
+    min-height: 100vh;
+}
+.active{
+    background-color: beige !important;
+    color: black !important;
+}
+/* service icon color */
+.i-color{
+    color: chartreuse;
+}
+/* service stubtitle color */
+.ss-color{
+    color: silver;
+}
